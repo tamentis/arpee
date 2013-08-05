@@ -1,2 +1,4 @@
 *.pyc
 games/
+bios/
+*.egg-info

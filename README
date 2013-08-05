@@ -6,3 +6,7 @@ SYNOPSIS
 
 DESCRIPTION
      An attempt to write an Odyssey2 emulator in Python.
+
+DOCUMENTATION
+     http://atarihq.com/danb/o2.shtml
+     http://soeren.informationstheater.de/

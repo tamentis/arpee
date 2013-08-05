@@ -22,8 +22,6 @@ The Intel 8048 (MCS-48) CPU was used in the following devices:
     - Roland ProMars
 """
 
-from decorator import decorator
-
 
 class instruction(object):
 
