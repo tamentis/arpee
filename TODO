@@ -1,0 +1,12 @@
+ - Keep implementing opcodes.
+
+ - Find out if we should really increment the program counter after JMP. That
+   seems crazy but games like Turtles seems to be thrown in an infinite loop
+   (BIOS JMPs at 0x400h, then the game at 0x400h also JMPs at 0x400h).
+
+ - Import PyGame in the mix and come up with an interface for the GPU/VDC to
+   throw pixels at it.
+
+ - Read the joysticks.
+
+ - Create the default sprites from scratch.
